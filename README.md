@@ -52,7 +52,7 @@ want scanned in the same directory
 
 ## Usage
 
-     `python3 nexpose-mac_counter.py`
+     python3 nexpose-mac_counter.py
 
 ## Output
 Progress is printed to the terminal in the following format:
